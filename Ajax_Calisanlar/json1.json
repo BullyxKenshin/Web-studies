@@ -1,0 +1,17 @@
+[
+    {
+        "name":"cafer altiparmak",
+        "department":"computer",
+        "salary":3000
+    },
+    {
+        "name":"cenk kaya",
+        "department":"design",
+        "salary":4000
+    },
+    {
+        "name":"umut yorur",
+        "department":"police",
+        "salary":5000
+    }
+]
